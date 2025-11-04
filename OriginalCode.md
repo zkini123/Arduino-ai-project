@@ -1,4 +1,4 @@
-# Arduino-ai-project
+# Arduino-ai-project. This is my original code to get the DHT sensor to read and turned on the internal light if above the temperature. This would simulate turning the fan on once it is implemented into the final project.
 #include <DHT.h>
 
 // --- Pin setup ---
